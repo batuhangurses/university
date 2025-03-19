@@ -28,4 +28,5 @@ int main()
 	homeValue = (pow(popularity,3) + pow(size,2))*10000 ;
 
 	printf("Your home value is %d",homeValue);
+	return 0;
 }
